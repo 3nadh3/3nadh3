@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Trinadh
+- I am  a college student of computer background
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning data strucutes and algorithms
+- 💞️ I’m looking to collaborate on web application
+- 📫 How to reach me here....
