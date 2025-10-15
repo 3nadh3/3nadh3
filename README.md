@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Trinadh Musunuri</h1>
-<h3 align="center">🌐 Full Stack Web Developer | 🎓 MS CS Student @ CMU | 💡 Passionate about AI & Cloud</h3>
+<h3 align="center">🌐 Full Stack Web Developer | 🎓 MS CS Student at CMU | 💡 Passionate about AI & Cloud</h3>
 
 <p align="center">
   <a href="https://github.com/3nadh3">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Hi,+I%27m+Trinadh+Musunuri;Full+Stack+Web+Developer;AI+%26+Cloud+Enthusiast;MS+CS+Student+at+CMU;Always+learning+new+technologies!" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Hi,+I'm+Trinadh+Musunuri;Full+Stack+Web+Developer;AI+%26+Cloud+Enthusiast;Always+learning+new+technologies!" />
   </a>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Currently pursuing **Master of Science in Computer Science** at **Central Michigan University**  
-- 💻 Strong foundation in **MERN Stack**, **AI**, and **Cloud (AWS)**  
-- 🎯 Experienced in building scalable web applications & automating workflows  
-- 🌱 Exploring **AI tools integration, Python automation, and cloud solutions**  
+- 🎓 Pursuing **Master of Science in Computer Science** at **Central Michigan University** (2025–2027)  
+- 💻 Completed **B.Tech in Information Technology** from **Sir C.R.Reddy College Of Engineering** (2021–2025)  
+- 🎯 Passionate about **MERN Stack**, **AI**, **Cloud (AWS)**, and automation  
+- 🌱 Exploring **AWS Cloud, Python Automation, AI Tools Integration**  
 - 📫 Reach me at **[trinadh.musunuri@gmail.com](mailto:trinadh.musunuri@gmail.com)**  
+- 🌐 Portfolio: [trinadhportfolio.netlify.app](https://trinadhportfolio.netlify.app/)  
 
 ---
 
@@ -26,56 +27,93 @@
 
 ---
 
-### 🌟 Featured Projects
+### 💼 Experience
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| ☁️ **Weather App** | Real-time weather data fetch with clean UI. | 🔗 [Live](https://weathermood.netlify.app/) • [Code](https://github.com/3nadh3/weather-app) |
-| 💬 **Chatbot Integration** | AI chatbot using Google AI Studio & Node.js backend. | 🔗 [Live](https://trinadhportfolio.netlify.app/) • [Code](https://github.com/3nadh3/chatbot-integration) |
-| 🏫 **Student Request Hub** | Web app for handling college student requests digitally. | 🔗 [Live](https://studenthub.netlify.app/) • [Code](https://github.com/3nadh3/student-request-hub) |
-| 📊 **Data Analysis Web App** | Interactive data visualization for datasets. | 🔗 [Live](https://dataanalyze.netlify.app/) • [Code](https://github.com/3nadh3/data-analysis-web-app) |
-| 🤖 **M-Sum-PAI** | AI system for summarizing text, audio, video & PDFs using Gemini 2.5 Flash & AssemblyAI. | 🔗 [View](#) |
+**Tech-Mark Training India, Remote** – *AI & Data Science Intern*  
+*Jan 2025 – Mar 2025*  
+- Completed 3-month internship in Artificial Intelligence & Data Science  
+- Applied ML algorithms and data preprocessing techniques for analysis  
+- Strengthened Python, data-driven analysis, and model evaluation skills  
 
 ---
 
-### 📈 GitHub Analytics
+### 🎓 Education
+
+**Central Michigan University** – Master of Science, Computer Science (2025–2027)  
+Relevant coursework: Advanced Algorithms, Machine Learning, AI  
+
+**Sir C.R.Reddy College Of Engineering** – B.Tech, Information Technology (2021–2025)  
+CGPA: 7.71/10  
+Relevant coursework: Data Structures, Web Development, Cloud Computing  
+
+---
+
+### 🏆 Certifications
+
+- **Generative AI by Google Cloud** – Leveraged Vertex AI for scalable ML models, reducing AI workflow time by 30%  
+- **AWS Cloud Technical Essentials** – Designed efficient cloud solutions using EC2, S3, RDS, enhancing reliability by 20%  
+
+---
+
+### 🌟 Projects
+
+<div align="center" style="display:flex;flex-wrap:wrap;gap:20px;justify-content:center;">
+
+<div style="border:1px solid #ddd;border-radius:10px;padding:15px;width:320px;box-shadow:0 4px 8px rgba(0,0,0,0.1);">
+  <h3>☁️ M-Sum-PAI</h3>
+  <p>AI system to summarize text, audio, video & PDFs using Gemini 2.5 Flash & AssemblyAI API. Delivers structured summaries in paragraphs & bullets.</p>
+  <p><b>Tech Stack:</b> React.js, Node.js, Express, Python, AssemblyAI, Gemini 2.5 Flash API</p>
+  <p>🔗 <a href="https://github.com/3nadh3/m-sum-pai">View Code</a></p>
+</div>
+
+<div style="border:1px solid #ddd;border-radius:10px;padding:15px;width:320px;box-shadow:0 4px 8px rgba(0,0,0,0.1);">
+  <h3>🏫 StudentRequestHub</h3>
+  <p>E-permission web app for students to submit & manage requests online. Streamlines communication flow.</p>
+  <p><b>Tech Stack:</b> HTML, CSS, PHP, MySQL</p>
+  <p>🔗 <a href="https://github.com/3nadh3/student-request-hub">View Code</a> • <a href="https://studenthub.netlify.app/">Live Demo</a></p>
+</div>
+
+<div style="border:1px solid #ddd;border-radius:10px;padding:15px;width:320px;box-shadow:0 4px 8px rgba(0,0,0,0.1);">
+  <h3>📊 Data Analysis Web App</h3>
+  <p>Interactive data visualization & analysis web app to extract insights from datasets.</p>
+  <p><b>Tech Stack:</b> React.js, Node.js, JS, HTML, CSS</p>
+  <p>🔗 <a href="https://github.com/3nadh3/data-analysis-web-app">View Code</a> • <a href="https://dataanalyze.netlify.app/">Live Demo</a></p>
+</div>
+
+<div style="border:1px solid #ddd;border-radius:10px;padding:15px;width:320px;box-shadow:0 4px 8px rgba(0,0,0,0.1);">
+  <h3>💬 Chatbot Integration</h3>
+  <p>AI chatbot using Google AI Studio & Node.js backend for interactive responses.</p>
+  <p><b>Tech Stack:</b> Node.js, HTML, CSS, JS</p>
+  <p>🔗 <a href="https://github.com/3nadh3/chatbot-integration">View Code</a> • <a href="https://trinadhportfolio.netlify.app/">Live Demo</a></p>
+</div>
+
+</div>
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=3nadh3&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=3nadh3&theme=radical&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=3nadh3&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=3nadh3&theme=radical" />
 </p>
 
 <p align="center">
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3nadh3&theme=radical" />
 </p>
 
----
-
-### 🧠 Fun Stats & Activity
+### 🧠 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3nadh3&theme=react-dark&hide_border=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=3nadh3&theme=react-dark&hide_border=true&area=true&custom_title=Trinadh%27s%20Activity%20Graph" />
 </p>
-
----
-
-### 🏆 Achievements & Hackathons
-- 🏅 **Hackathon** at Seshadri Rao Gudlavalleru Engineering College – 24-hour hackathon, showcasing teamwork & problem-solving  
-- 🏆 **Department Project Expo Competition (2nd Year)** – 1st place for innovative project development  
-- 🥇 **Coding Competition (2022)** – Secured 1st place  
-
----
-
-### 📚 Certifications
-- **Generative AI by Google Cloud** – Vertex AI deployment, reduced workflow time by 30%  
-- **AWS Cloud Technical Essentials** – Designed EC2, S3, RDS solutions, improving reliability by 20%  
 
 ---
 
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://trinadhportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://trinadh.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://linkedin.com/in/trinadh-m-b56391269" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/3nadh3" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
