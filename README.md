@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trinadh Musunuri</h1>
 <h3 align="center">🌐 Full Stack Web Developer | 🎓 MS CS Student | 💡 Passionate about AI & Cloud</h3>
-
 <p align="center">
   <a href="https://github.com/3nadh3">
     <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Hi,+I'm+Trinadh+Musunuri;Full+Stack+Web+Developer;AI+%26+Cloud+Enthusiast;Always+learning+new+technologies!" />
