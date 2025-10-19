@@ -15,7 +15,7 @@
 - 🎯 Passionate about **MERN Stack**, **AI**, **Cloud (AWS)**, and automation  
 - 🌱 Exploring **AWS Cloud, Python Automation, AI Tools Integration**  
 - 📫 Reach me at **[trinadh.musunuri@gmail.com](mailto:trinadh.musunuri@gmail.com)**  
-- 🌐 Portfolio: [trinadhportfolio.netlify.app](https://trinadhportfolio.netlify.app/)  
+- 🌐 Portfolio: [trinadh.dev](https://trinadh.dev/)  
 
 ---
 
