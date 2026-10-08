@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg?v=20261008-style2" width="100%" alt="Trinadh Musunuri — Software Engineer. AI agents, cloud systems, and full-stack products. M.S. Computer Science at CMU, expected May 2027." />
+  <img src="./assets/profile-banner-styled.svg?v=20261008-style2" width="100%" alt="Trinadh Musunuri — Software Engineer. AI agents, cloud systems, and full-stack products. M.S. Computer Science at CMU, expected May 2027." />
 </p>
 
 <p align="center">
@@ -110,18 +110,18 @@ Completed a three-month internship applying ML algorithms, data preprocessing, a
 ## ![GitHub activity](./assets/section-activity.svg?v=20261008-style2)
 
 <p align="center">
-  <a href="https://github.com/3nadh3?tab=repositories"><img width="48%" src="./assets/github-stats.svg?v=20261008-style2" alt="Trinadh's GitHub statistics" /></a>
-  <a href="https://github.com/3nadh3?tab=overview"><img width="48%" src="./assets/github-streak.svg?v=20261008-style2" alt="Trinadh's contribution streak" /></a>
+  <a href="https://github.com/3nadh3?tab=repositories"><img width="48%" src="./assets/github-stats-styled.svg?v=20261008-style2" alt="Trinadh's GitHub statistics" /></a>
+  <a href="https://github.com/3nadh3?tab=overview"><img width="48%" src="./assets/github-streak-styled.svg?v=20261008-style2" alt="Trinadh's contribution streak" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/3nadh3?tab=overview"><img width="100%" src="./assets/github-summary.svg?v=20261008-style2" alt="Trinadh's GitHub activity summary" /></a>
+  <a href="https://github.com/3nadh3?tab=overview"><img width="100%" src="./assets/github-summary-styled.svg?v=20261008-style2" alt="Trinadh's GitHub activity summary" /></a>
 </p>
 
 ### Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/3nadh3?tab=overview"><img width="100%" src="./assets/contribution-graph.svg?v=20261008-style2" alt="Trinadh's contribution graph over the last 90 days" /></a>
+  <a href="https://github.com/3nadh3?tab=overview"><img width="100%" src="./assets/contribution-graph-styled.svg?v=20261008-style2" alt="Trinadh's contribution graph over the last 90 days" /></a>
 </p>
 
 <details>

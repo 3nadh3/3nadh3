@@ -29,7 +29,7 @@ jobs:
         run: node scripts/refresh-profile.mjs
       - name: Commit updated graph images
         run: |
-          git add assets/github-*.svg assets/contribution-graph.svg
+          git add assets/github-*.svg assets/contribution-graph-styled.svg
           if git diff --cached --quiet; then exit 0; fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'

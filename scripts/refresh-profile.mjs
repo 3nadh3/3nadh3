@@ -62,7 +62,7 @@ async function activityGraph() {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="980" height="320" viewBox="0 0 980 320" role="img" aria-labelledby="title description"><title id="title">Trinadh's Contribution Graph</title><desc id="description">Daily contributions for ${recent[0].date} through ${recent.at(-1).date}, from GitHub's public calendar. ${total} contributions in the last year.</desc><defs><linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f85d7f" stop-opacity=".38"/><stop offset="1" stop-color="#f85d7f" stop-opacity=".02"/></linearGradient></defs><rect width="980" height="320" rx="12" fill="#141321"/><g font-family="Arial, sans-serif"><text x="30" y="34" fill="#f85d7f" font-size="21" font-weight="700">Trinadh's Contribution Graph</text><text x="30" y="56" fill="#a6a1b8" font-size="13">Last 90 days · ${total} contributions in the last year</text>${grid}<polygon points="${left},${bottom} ${points} 940,${bottom}" fill="url(#area)"/><polyline points="${points}" fill="none" stroke="#f85d7f" stroke-width="2" stroke-linejoin="round"/>${dots}${labels}<text x="30" y="300" fill="#a6a1b8" font-size="12">Source: GitHub public contribution calendar · Updated ${recent.at(-1).date}</text></g></svg>`;
 }
 
-await refresh('contribution-graph', activityGraph);
-await refresh('github-stats', () => get(`https://github-readme-stats.vercel.app/api?username=${user}&show_icons=true&theme=radical`));
-await refresh('github-streak', () => get(`https://github-readme-streak-stats.herokuapp.com/?user=${user}&theme=radical`));
-await refresh('github-summary', () => get(`https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${user}&theme=radical`));
+await refresh('contribution-graph-styled', activityGraph);
+await refresh('github-stats-styled', () => get(`https://github-readme-stats.vercel.app/api?username=${user}&show_icons=true&theme=radical`));
+await refresh('github-streak-styled', () => get(`https://github-readme-streak-stats.herokuapp.com/?user=${user}&theme=radical`));
+await refresh('github-summary-styled', () => get(`https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${user}&theme=radical`));

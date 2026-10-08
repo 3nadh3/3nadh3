@@ -13,7 +13,7 @@ async function asset(name,w,h,title,body) {
  await writeFile(`${root}assets/${name}.svg`,svg);
 }
 
-await asset('profile-banner',1280,360,'Trinadh Musunuri — Software Engineer. AI agents, cloud systems, full-stack products. CMU M.S. CS, May 2027.',`
+await asset('profile-banner-styled',1280,360,'Trinadh Musunuri — Software Engineer. AI agents, cloud systems, full-stack products. CMU M.S. CS, May 2027.',`
 <defs><radialGradient id="glow"><stop stop-color="#612633"/><stop offset="1" stop-color="#101318"/></radialGradient></defs>
 <ellipse cx="1100" cy="180" rx="220" ry="177" fill="url(#glow)"/>
 <rect x="1" y="45" width="6" height="265" fill="${colors.red}"/>
@@ -76,7 +76,7 @@ for(const [id,org,name,date] of [
 await asset('contact-banner',980,148,'Have a role or project in mind? Let’s build something useful. Contact Trinadh via email or LinkedIn.',`${text(30,38,'LET’S BUILD SOMETHING',15,colors.red,700,'letter-spacing="2"')}${text(30,84,'Have a role or project in mind?',34,colors.text,700)}${text(30,119,'AI · Cloud · Systems · Full-stack development',22,colors.muted)}${text(942,92,'↗',48,colors.red,500,'text-anchor="end"')}`);
 
 // Match the saved stats cards to the same palette without changing the data.
-for(const name of ['github-stats','github-streak','github-summary','contribution-graph']) {
+for(const name of ['github-stats-styled','github-streak-styled','github-summary-styled','contribution-graph-styled']) {
  const source=await readFile(`${root}assets/${name}.svg`,'utf8');
  await writeFile(`${root}assets/${name}.svg`,restyle(source));
 }
