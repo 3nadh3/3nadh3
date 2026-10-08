@@ -1,14 +1,12 @@
 // Save validated images so visitors never depend on a live widget service.
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
+import { restyle } from './profile-style.mjs';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const user = '3nadh3';
 await mkdir(`${root}assets`, { recursive: true });
 const escape = text => String(text).replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('"', '&quot;');
-// Preserve the original graph data while matching the portfolio palette.
-const palette = { '#141321':'#101318', '#fe428e':'#ff5264', '#f85d7f':'#ff5264', '#a9fef7':'#f5f7fb', '#e4e2e2':'#c1cad8', '#f8d847':'#ff5264', '#ae81ff':'#f78592', '#a6a1b8':'#c1cad8', '#2c263b':'#303744' };
-const restyle = svg => svg.replace(/#[\da-f]{6}\b/gi, color => palette[color.toLowerCase()] ?? color);
 async function get(url) {
   const response = await fetch(url, { signal: AbortSignal.timeout(45000), headers: { 'User-Agent': '3nadh3-profile-refresh' } });
   if (!response.ok) throw new Error(`HTTP ${response.status} from ${new URL(url).hostname}`);

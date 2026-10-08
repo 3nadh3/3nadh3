@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - scripts/refresh-profile.mjs
+      - scripts/profile-style.mjs
       - .github/workflows/refresh-profile.yml
 
 permissions:

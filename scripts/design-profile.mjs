@@ -1,6 +1,7 @@
 // Rebuild the GitHub-safe visual assets without external image services.
 import { writeFile, mkdir, readFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
+import { restyle } from './profile-style.mjs';
 const root = fileURLToPath(new URL('../', import.meta.url));
 await mkdir(`${root}assets`, { recursive: true });
 const esc = s => String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('"','&quot;');
@@ -75,9 +76,8 @@ for(const [id,org,name,date] of [
 await asset('contact-banner',980,148,'Have a role or project in mind? Let’s build something useful. Contact Trinadh via email or LinkedIn.',`${text(30,38,'LET’S BUILD SOMETHING',15,colors.red,700,'letter-spacing="2"')}${text(30,84,'Have a role or project in mind?',34,colors.text,700)}${text(30,119,'AI · Cloud · Systems · Full-stack development',22,colors.muted)}${text(942,92,'↗',48,colors.red,500,'text-anchor="end"')}`);
 
 // Match the saved stats cards to the same palette without changing the data.
-const palette={'#141321':colors.bg,'#fe428e':colors.red,'#f85d7f':colors.red,'#a9fef7':colors.text,'#e4e2e2':colors.muted,'#f8d847':colors.red,'#ae81ff':'#f78592','#a6a1b8':colors.muted,'#2c263b':colors.border};
 for(const name of ['github-stats','github-streak','github-summary','contribution-graph']) {
  const source=await readFile(`${root}assets/${name}.svg`,'utf8');
- await writeFile(`${root}assets/${name}.svg`,source.replace(/#[\da-f]{6}\b/gi,c=>palette[c.toLowerCase()]??c));
+ await writeFile(`${root}assets/${name}.svg`,restyle(source));
 }
 console.log('Profile visual assets rebuilt');
