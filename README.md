@@ -1,123 +1,113 @@
-<h1 align="center">Hi 👋, I'm Trinadh Musunuri</h1>
-<h3 align="center">🌐 Full Stack Web Developer | 🎓 MS CS Student at CMU | 💡 Passionate about AI & Cloud</h3>
-
 <p align="center">
-  <a href="https://github.com/3nadh3">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Hi,+I'm+Trinadh+Musunuri;Full+Stack+Web+Developer;AI+%26+Cloud+Enthusiast;Always+learning+new+technologies!" />
-  </a>
-</p>
-
----
-
-### 🚀 About Me
-- 🎓 Pursuing **Master of Science in Computer Science** at **Central Michigan University** (2025–2027)  
-- 💻 Completed **B.Tech in Information Technology** from **Sir C.R.Reddy College Of Engineering** (2021–2025)  
-- 🎯 Passionate about **MERN Stack**, **AI**, **Cloud (AWS)**, and automation  
-- 🌱 Exploring **AWS Cloud, Python Automation, AI Tools Integration**  
-- 📫 Reach me at **[trinadh.musunuri@gmail.com](mailto:trinadh.musunuri@gmail.com)**  
-- 🌐 Portfolio: [trinadh.dev](https://trinadh.dev/)  
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,aws,git,github,figma" />
-</p>
-
----
-
-### 💼 Experience
-
-**Tech-Mark Training India, Remote** – *AI & Data Science Intern*  
-*Jan 2025 – Mar 2025*  
-- Completed 3-month internship in Artificial Intelligence & Data Science  
-- Applied ML algorithms and data preprocessing techniques for analysis  
-- Strengthened Python, data-driven analysis, and model evaluation skills  
-
----
-
-### 🎓 Education
-
-**Central Michigan University** – Master of Science, Computer Science (2025–2027)  
-Relevant coursework: Advanced Algorithms, Machine Learning, AI  
-
-**Sir C.R.Reddy College Of Engineering** – B.Tech, Information Technology (2021–2025)  
-CGPA: 7.71/10  
-Relevant coursework: Data Structures, Web Development, Cloud Computing  
-
----
-
-### 🏆 Certifications
-
-- **Generative AI by Google Cloud** – Leveraged Vertex AI for scalable ML models, reducing AI workflow time by 30%  
-- **AWS Cloud Technical Essentials** – Designed efficient cloud solutions using EC2, S3, RDS, enhancing reliability by 20%  
-
----
-
-### 🌟 Projects
-
-<div align="center" style="display:flex;flex-wrap:wrap;gap:20px;justify-content:center;">
-
-<div style="border:1px solid #ddd;border-radius:10px;padding:15px;width:320px;box-shadow:0 4px 8px rgba(0,0,0,0.1);">
-  <h3>☁️ M-Sum-PAI</h3>
-  <p>AI system to summarize text, audio, video & PDFs using Gemini 2.5 Flash & AssemblyAI API. Delivers structured summaries in paragraphs & bullets.</p>
-  <p><b>Tech Stack:</b> React.js, Node.js, Express, Python, AssemblyAI, Gemini 2.5 Flash API</p>
-  <p>🔗 <a href="https://github.com/3nadh3/m-sum-pai">View Code</a></p>
-</div>
-
-<div style="border:1px solid #ddd;border-radius:10px;padding:15px;width:320px;box-shadow:0 4px 8px rgba(0,0,0,0.1);">
-  <h3>🏫 StudentRequestHub</h3>
-  <p>E-permission web app for students to submit & manage requests online. Streamlines communication flow.</p>
-  <p><b>Tech Stack:</b> HTML, CSS, PHP, MySQL</p>
-  <p>🔗 <a href="https://github.com/3nadh3/student-request-hub">View Code</a> • <a href="https://studenthub.netlify.app/">Live Demo</a></p>
-</div>
-
-<div style="border:1px solid #ddd;border-radius:10px;padding:15px;width:320px;box-shadow:0 4px 8px rgba(0,0,0,0.1);">
-  <h3>📊 Data Analysis Web App</h3>
-  <p>Interactive data visualization & analysis web app to extract insights from datasets.</p>
-  <p><b>Tech Stack:</b> React.js, Node.js, JS, HTML, CSS</p>
-  <p>🔗 <a href="https://github.com/3nadh3/data-analysis-web-app">View Code</a> • <a href="https://dataanalyze.netlify.app/">Live Demo</a></p>
-</div>
-
-<div style="border:1px solid #ddd;border-radius:10px;padding:15px;width:320px;box-shadow:0 4px 8px rgba(0,0,0,0.1);">
-  <h3>💬 Chatbot Integration</h3>
-  <p>AI chatbot using Google AI Studio & Node.js backend for interactive responses.</p>
-  <p><b>Tech Stack:</b> Node.js, HTML, CSS, JS</p>
-  <p>🔗 <a href="https://github.com/3nadh3/chatbot-integration">View Code</a> • <a href="https://trinadhportfolio.netlify.app/">Live Demo</a></p>
-</div>
-
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=3nadh3&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=3nadh3&theme=radical" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Trinadh Musunuri — Software Engineer. AI agents, cloud systems, and full-stack products. M.S. Computer Science at CMU, expected May 2027." />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3nadh3&theme=radical" />
+  <a href="https://trinadh.dev/"><img src="./assets/portfolio-link.svg" alt="Explore my portfolio" height="34" /></a>
+  <a href="https://www.linkedin.com/in/trinadh-musunuri/"><img src="./assets/linkedin-link.svg" alt="Connect on LinkedIn" height="34" /></a>
+  <a href="mailto:trinadh.musunuri@gmail.com"><img src="./assets/email-link.svg" alt="Email Trinadh" height="34" /></a>
+  <a href="https://trinadh.dev/resume/Trinadh_Musunuri_Resume.pdf"><img src="./assets/resume-link.svg" alt="Read my resume" height="34" /></a>
 </p>
 
-### 🧠 Contribution Graph
+I build software across **AI, backend systems, and full-stack development**. My work connects production AI agents at **IBM**, adversarial ML and hardware research at **Central Michigan University**, and applications you can try below.
 
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=3nadh3&theme=react-dark&hide_border=true&area=true&custom_title=Trinadh%27s%20Activity%20Graph" />
-</p>
+I’m completing my **M.S. in Computer Science at CMU**, with graduation expected in **May 2027**, and exploring software engineering opportunities in AI, cloud, systems, and full-stack development.
+
+## Production impact
+
+| AI agents | Observability | Deployment |
+| :--- | :--- | :--- |
+| **4 production agents** | **10–20 seconds** to investigate errors | **3 environments** |
+| Slack, Teams, and phone integrations | Reduced from 10–15 minutes | Dev, Staging, and Production |
+
+## Experience
+
+### IBM · Software Engineer Intern, watsonx Orchestrate
+**May–August 2026 · Austin, TX**
+
+- Led Grafana dashboards using **Prometheus and Loki** for AI Gateway and Channel Integrations; deployed them through the SRE-managed repository across three environments.
+- Built four omnichannel AI agents with **React, a custom MCP server, AWS, and watsonx Orchestrate**.
+- Implemented a local voice runtime and CDR pipeline, and fixed voice traffic bypassing AI Gateway using structured STT/TTS logs across three speech providers.
+
+### Central Michigan University · Research Assistant
+**September 2025–May 2026 · Mount Pleasant, MI**
+
+- Replaced evolutionary optimization with a gradient-based approach, reducing adversarial ML experiments from **30–60 minutes to under 3 minutes**.
+- Profiled **AMD Ryzen AI NPU** execution through cycle counting and DRAM contention metrics; designed CPU–NPU benchmarks for hardware security research.
+- Built an interactive **YOLOv2 adversarial attack demo** on Hugging Face Spaces with a Cloudflare Worker proxy, used by students.
+
+<details>
+<summary><strong>Earlier experience</strong></summary>
+
+**Tech-Mark Training India · AI & Data Science Intern**<br>
+January–March 2025 · Remote
+
+Completed a three-month internship applying ML algorithms, data preprocessing, and model evaluation.
+
+</details>
+
+## Selected projects
+
+### CyberGuard XAI
+**Explainable phishing detection** — inspect word-level risk signals, explore suggested substitutions, and see how changes affect predictions.
+
+`React` `Vite` `FastAPI` `TF-IDF / Logistic Regression` `DistilBERT MLM` `LIME` `SHAP`
+
+[Try the demo →](https://cyberguard-xai.netlify.app/) · [Explore the code](https://github.com/3nadh3/Cyber-Guard-XAI)
+
+### SkillSwap
+**Peer skill exchange and messaging** — match people through their skills, with a MERN application, JWT-secured APIs, and real-time messaging.
+
+`MongoDB` `Express` `React` `Node.js` `WebSockets` `JWT`
+
+[Try the demo →](https://skill-swap.netlify.app/) · [Frontend](https://github.com/3nadh3/Hackthon-frontend) · [Backend](https://github.com/3nadh3/Hackthon-backend)
+
+### M-Sum-PAI
+**Multimodal transcription and summarization** — turn text, audio, video, and PDFs into concise summaries and bullet points.
+
+`React` `Node.js` `Express` `Gemini API` `AssemblyAI`
+
+[Try the demo →](https://transcripto-ai.netlify.app/) · [Frontend](https://github.com/3nadh3/AI-Transcriber-Summarize-Frontend) · [Backend](https://github.com/3nadh3/ai-transcriber-summarizer-backend)
+
+### Portfolio & Jambo
+**A Netflix-inspired portfolio with a contextual AI assistant** — different profiles highlight experience, projects, and research; the chatbot receives recent conversation history and generates relevant follow-up questions.
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Node.js` `Express` `Google AI API`
+
+[Explore the portfolio →](https://trinadh.dev/) · [Portfolio code](https://github.com/3nadh3/portfolio) · [Chatbot code](https://github.com/3nadh3/portfolio-chatbot/tree/master)
+
+<details>
+<summary><strong>More projects</strong></summary>
+
+- [StudentRequestHub](https://github.com/3nadh3/StudentRequestHub) — an e-permission application built with HTML, CSS, PHP, and MySQL.
+- [Data Analysis Web App](https://github.com/3nadh3/Data-Analysis-Web-App) — interactive data visualization and analysis.
+
+</details>
+
+## Engineering toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, JavaScript, C, SQL |
+| **Web & APIs** | React, Node.js, Express, FastAPI, Vite, REST, WebSockets, JWT |
+| **AI & agents** | watsonx Orchestrate, MCP, PyTorch, Vertex AI, Hugging Face, DistilBERT, YOLOv2, LIME, SHAP |
+| **Observability & infrastructure** | Grafana, Prometheus, Loki, Redis, Docker, CI/CD |
+| **Cloud** | AWS: EC2, S3, IAM, RDS, Lambda · Google Cloud · IBM Cloud · Netlify · Render |
+| **Databases & tools** | MongoDB, MySQL, PostgreSQL, Git, GitHub, Postman, Bruno, OpenAPI |
+
+## Education & credentials
+
+**M.S. Computer Science · Central Michigan University**<br>
+Expected **May 2027** · College of Science and Engineering<br>
+Advanced Algorithms · Cloud Computing · Web Technologies · Machine Learning
+
+**B.Tech Information Technology · Sir C R Reddy College of Engineering**<br>
+2021–2025
+
+- [**NVIDIA — Fundamentals of Deep Learning**](https://learn.nvidia.com/certificates?id=h_6y4MSeQ_KLXWGKnuJkPA) · November 2025
+- [**Google Cloud — Generative AI**](https://skills.google/public_profiles/7537c6b2-75aa-4f6d-9c96-be8f78859f0f) · November 2024
+- [**AWS — Cloud Technical Essentials**](https://www.coursera.org/account/accomplishments/certificate/GGN5MXGHUQEM) · November 2023
 
 ---
 
-### 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://trinadh.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/trinadh-m-b56391269" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/3nadh3" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-⭐ *If you like my work, don’t forget to star some repos!* ⭐
+**Have a role or project in mind?** [Email me](mailto:trinadh.musunuri@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/trinadh-musunuri/).

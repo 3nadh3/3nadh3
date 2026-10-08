@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="34" viewBox="0 0 134 34" role="img" aria-label="EMAIL ME">
+  <rect x="0.5" y="0.5" width="133" height="33" rx="7" fill="#141416" stroke="#393941"/>
+  <text x="15" y="22" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.3" fill="#ffffff">EMAIL ME</text>
+  <path d="M107 21l8-8m-7 0h7v7" fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

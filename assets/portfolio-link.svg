@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="34" viewBox="0 0 154 34" role="img" aria-label="PORTFOLIO">
+  <rect x="0.5" y="0.5" width="153" height="33" rx="7" fill="#e50914" stroke="#e50914"/>
+  <text x="15" y="22" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.3" fill="#ffffff">PORTFOLIO</text>
+  <path d="M127 21l8-8m-7 0h7v7" fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
