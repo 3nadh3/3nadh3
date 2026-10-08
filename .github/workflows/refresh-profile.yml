@@ -1,0 +1,37 @@
+name: Refresh profile graphs
+
+on:
+  schedule:
+    - cron: '23 11 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/refresh-profile.mjs
+      - .github/workflows/refresh-profile.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-graphs
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Refresh images and preserve the last good version on failure
+        run: node scripts/refresh-profile.mjs
+      - name: Commit updated graph images
+        run: |
+          git add assets/github-*.svg assets/contribution-graph.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh GitHub profile graphs'
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"

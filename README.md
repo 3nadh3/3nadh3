@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi,+I%27m+Trinadh+Musunuri;Software+Engineer;AI+%26+Cloud+Enthusiast;Always+learning+new+technologies!" width="600" alt="Hi, I'm Trinadh Musunuri. Software Engineer, AI and Cloud Enthusiast. Always learning new technologies!" />
+</p>
+
+<p align="center">
   <a href="https://trinadh.dev/"><img src="./assets/portfolio-link.svg" alt="Explore my portfolio" height="34" /></a>
   <a href="https://www.linkedin.com/in/trinadh-musunuri/"><img src="./assets/linkedin-link.svg" alt="Connect on LinkedIn" height="34" /></a>
   <a href="mailto:trinadh.musunuri@gmail.com"><img src="./assets/email-link.svg" alt="Email Trinadh" height="34" /></a>
@@ -94,6 +98,25 @@ Completed a three-month internship applying ML algorithms, data preprocessing, a
 | **Observability & infrastructure** | Grafana, Prometheus, Loki, Redis, Docker, CI/CD |
 | **Cloud** | AWS: EC2, S3, IAM, RDS, Lambda · Google Cloud · IBM Cloud · Netlify · Render |
 | **Databases & tools** | MongoDB, MySQL, PostgreSQL, Git, GitHub, Postman, Bruno, OpenAPI |
+
+## GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/3nadh3?tab=repositories"><img width="48%" src="./assets/github-stats.svg" alt="Trinadh's GitHub statistics" /></a>
+  <a href="https://github.com/3nadh3?tab=overview"><img width="48%" src="./assets/github-streak.svg" alt="Trinadh's contribution streak" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/3nadh3?tab=overview"><img width="100%" src="./assets/github-summary.svg" alt="Trinadh's GitHub activity summary" /></a>
+</p>
+
+## Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/3nadh3?tab=overview"><img width="100%" src="./assets/contribution-graph.svg" alt="Trinadh's contribution graph over the last 90 days" /></a>
+</p>
+
+<sub>Images refresh daily from GitHub and the original stats services. If a service is unavailable, the last successful image stays visible.</sub>
 
 ## Education & credentials
 
