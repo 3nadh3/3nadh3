@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Trinadh's GitHub Stats, Rank: C</title>
+        <title id="titleId">Trinadh's GitHub Stats, Rank: C+</title>
         <desc id="descId">Total Stars Earned: 6, Total Commits  (last year) : 104, Total PRs: 7, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
@@ -57,7 +57,7 @@
       opacity: 0.2;
     }
     .rank-circle {
- stroke-dashoffset: 220.06377662121923;
+ stroke-dashoffset: 219.06644562007963;
       stroke: #ff5264;
       stroke-dasharray: 250;
       fill: none;
@@ -74,7 +74,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 220.06377662121923;
+        stroke-dashoffset: 219.06644562007963;
       }
     }
   
@@ -144,7 +144,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          C
+          C+
         </text>
       
         </g>
